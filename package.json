@@ -1,0 +1,21 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "This project is an educational and functional project for me to work in my backend skills. It is a CRM to track my job interview process, the companies I apply to, responses I get, contacts and all the information related to the job hunt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elchopo7/CRM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/elchopo7/CRM/issues"
+  },
+  "homepage": "https://github.com/elchopo7/CRM#readme"
+}
