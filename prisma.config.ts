@@ -11,6 +11,6 @@ export default defineConfig({
   },
   engine: "classic",
   datasource: {
-    url: env("DATABASE_URL=postgresql://albertoantiza:minion17@localhost:5432/job_crm"),
+    url: env("DATABASE_URL"),
   },
 });
